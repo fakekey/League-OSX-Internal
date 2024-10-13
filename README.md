@@ -1,5 +1,5 @@
 # Hi
->Since my friends does not play League anymore, and Riot is planning for implement Vanguard on Mac, so I wanna share it with 
+>Since my friends does not play League anymore, and Riot is planning for implement Vanguard on Mac, so I wanna share it with you
 # How to build?
 1. Install cmake, this one included with llvm, you could install with:
 ```bash
