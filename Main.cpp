@@ -364,14 +364,6 @@ static void DrawSpellCast() {
         } else if (val->skillShotType == Offset::SkillShotType::CIRCLE) {
             DrawCircleWorld(val->endPos, val->radius, 100, 2, Colors::GREEN);
         }
-        if (val->skillShotType == Offset::SkillShotType::UNKNOWN ||
-            (val->skillShotType == Offset::SkillShotType::LINE && val->width == 0.f) ||
-            (val->skillShotType == Offset::SkillShotType::CIRCLE && val->radius == 0.f)) {
-            Control->PrintChat(fmt::format("{:s}: start ({:f},{:f},{:f}), end ({:f},{:f},{:f})", val->name,
-                                           val->startPos.x, val->startPos.y, val->startPos.z,
-                                           val->endPos.x, val->endPos.y, val->endPos.z)
-                                   .c_str());
-        }
     }
     SpellLocker.unlock();
 }

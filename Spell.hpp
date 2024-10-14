@@ -101,4 +101,11 @@ class OBuffManager {
     BuffInstance *GetBuffInstance(int id);
 };
 
+class MissileClient {
+  public:
+    union {
+        DEFINE_MEMBER_N(Vector3 Position, 0x128);
+    };
+};
+
 #endif /* Spell_h */

@@ -16,9 +16,10 @@ namespace Offset {
     };
 
     enum World {
-        GameTime = 0x20E7C38,    // {:5s}| {#channel!} Spawning completed
-        HeroList = 0x20C3978,    // Champion_Kills
-        MinionList = 0x20C3AA0,  // Death // 8
+        GameTime = 0x20E7C38,   // {:5s}| {#channel!} Spawning completed
+        HeroList = 0x20C3978,   // Champion_Kills
+        MinionList = 0x20C3AA0, // Death // 8
+        MissileList = 0x20C3AD8,
         TurretList = 0x20C3CB0,  // {:5s}| {#channel!} Spawning completed
         HudInstance = 0x20C4460, // {:5s}| {#channel!} Spawning completed
         NetClient = 0x20C3D80,   // above where you found AttackDelay and CastDelay together

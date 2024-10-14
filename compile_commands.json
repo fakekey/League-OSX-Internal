@@ -1,0 +1,128 @@
+[
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -x objective-c++ -Os -fobjc-arc -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Utils.mm.o -c /Users/nghilq/Desktop/Hucker/Utils.mm",
+  "file": "/Users/nghilq/Desktop/Hucker/Utils.mm",
+  "output": "CMakeFiles/Hucker.dir/Utils.mm.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -x objective-c++ -Os -fobjc-arc -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/imgui_impl_metal.mm.o -c /Users/nghilq/Desktop/Hucker/imgui_impl_metal.mm",
+  "file": "/Users/nghilq/Desktop/Hucker/imgui_impl_metal.mm",
+  "output": "CMakeFiles/Hucker.dir/imgui_impl_metal.mm.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -x objective-c++ -Os -fobjc-arc -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/imgui_impl_osx.mm.o -c /Users/nghilq/Desktop/Hucker/imgui_impl_osx.mm",
+  "file": "/Users/nghilq/Desktop/Hucker/imgui_impl_osx.mm",
+  "output": "CMakeFiles/Hucker.dir/imgui_impl_osx.mm.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/rd_route.c.o -c /Users/nghilq/Desktop/Hucker/rd_route.c",
+  "file": "/Users/nghilq/Desktop/Hucker/rd_route.c",
+  "output": "CMakeFiles/Hucker.dir/rd_route.c.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/GameData.cpp.o -c /Users/nghilq/Desktop/Hucker/GameData.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/GameData.cpp",
+  "output": "CMakeFiles/Hucker.dir/GameData.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/GameObject.cpp.o -c /Users/nghilq/Desktop/Hucker/GameObject.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/GameObject.cpp",
+  "output": "CMakeFiles/Hucker.dir/GameObject.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Irelia.cpp.o -c /Users/nghilq/Desktop/Hucker/Irelia.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Irelia.cpp",
+  "output": "CMakeFiles/Hucker.dir/Irelia.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Item.cpp.o -c /Users/nghilq/Desktop/Hucker/Item.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Item.cpp",
+  "output": "CMakeFiles/Hucker.dir/Item.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Main.cpp.o -c /Users/nghilq/Desktop/Hucker/Main.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Main.cpp",
+  "output": "CMakeFiles/Hucker.dir/Main.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Memory.cpp.o -c /Users/nghilq/Desktop/Hucker/Memory.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Memory.cpp",
+  "output": "CMakeFiles/Hucker.dir/Memory.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Script.cpp.o -c /Users/nghilq/Desktop/Hucker/Script.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Script.cpp",
+  "output": "CMakeFiles/Hucker.dir/Script.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Spell.cpp.o -c /Users/nghilq/Desktop/Hucker/Spell.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Spell.cpp",
+  "output": "CMakeFiles/Hucker.dir/Spell.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/TwistedFate.cpp.o -c /Users/nghilq/Desktop/Hucker/TwistedFate.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/TwistedFate.cpp",
+  "output": "CMakeFiles/Hucker.dir/TwistedFate.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Utils.cpp.o -c /Users/nghilq/Desktop/Hucker/Utils.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Utils.cpp",
+  "output": "CMakeFiles/Hucker.dir/Utils.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Yasuo.cpp.o -c /Users/nghilq/Desktop/Hucker/Yasuo.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Yasuo.cpp",
+  "output": "CMakeFiles/Hucker.dir/Yasuo.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/Yone.cpp.o -c /Users/nghilq/Desktop/Hucker/Yone.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/Yone.cpp",
+  "output": "CMakeFiles/Hucker.dir/Yone.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/imgui.cpp.o -c /Users/nghilq/Desktop/Hucker/imgui.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/imgui.cpp",
+  "output": "CMakeFiles/Hucker.dir/imgui.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/imgui_demo.cpp.o -c /Users/nghilq/Desktop/Hucker/imgui_demo.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/imgui_demo.cpp",
+  "output": "CMakeFiles/Hucker.dir/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/imgui_draw.cpp.o -c /Users/nghilq/Desktop/Hucker/imgui_draw.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/imgui_draw.cpp",
+  "output": "CMakeFiles/Hucker.dir/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/imgui_tables.cpp.o -c /Users/nghilq/Desktop/Hucker/imgui_tables.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/imgui_tables.cpp",
+  "output": "CMakeFiles/Hucker.dir/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/nghilq/Desktop/Hucker",
+  "command": "/usr/local/opt/llvm/bin/clang++ -DHucker_EXPORTS -I/Users/nghilq/Desktop/Hucker/include -I/Users/nghilq/Desktop/Hucker/metal-cpp -I/Users/nghilq/Desktop/Hucker/metal-cpp-extensions -Os -stdlib=libc++ -std=c++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -o CMakeFiles/Hucker.dir/imgui_widgets.cpp.o -c /Users/nghilq/Desktop/Hucker/imgui_widgets.cpp",
+  "file": "/Users/nghilq/Desktop/Hucker/imgui_widgets.cpp",
+  "output": "CMakeFiles/Hucker.dir/imgui_widgets.cpp.o"
+}
+]
