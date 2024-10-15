@@ -12,6 +12,7 @@ cmake .
 ```bash
 make
 ```
+![demo](https://i.imgur.com/dW2BwP8.png "demo")
 Creadit to:
 - [LViewPlus64](https://github.com/ImbaMDT/LViewPlus64)
 - [ImGui](https://github.com/ocornut/imgui)
